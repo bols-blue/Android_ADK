@@ -1,10 +1,13 @@
 May 6, 2011
 Copyright Google, Inc. 2011
 
-The ADK_release_0506.zip archinve contains the following files and directories:
+Jan 22, 2012
+Copyright hisayoshi suehiro. 2012
+
+This contains the following files and directories:
 
 README.txt                 This file
-LICENSE.txt                License for third party code used in firmware
+COPYING                    License for third party code used in firmware
 app/                       DemoKit Android application
 firmware/demokit/          Firmware for the ADK board
 firmware/arduino_libs/     Open Accessory Protocol and USB Host Libraries
